@@ -17,6 +17,6 @@ In the future this may work together with [bpyhullgen](https://github.com/edzop/
 
 This is work in progress and experimental. 
 
-If you want to play with it just open the blend file in blender 3.0
+If you want to play with it just clone this repository and open the blend file in blender 3.0
 
 See related project: [bpyhullgen](https://github.com/edzop/bpyhullgen)
