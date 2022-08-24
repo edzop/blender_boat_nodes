@@ -1,1 +1,2 @@
-blender_boat_nodes.blend1
+*.blend1
+unit_tests/output/
