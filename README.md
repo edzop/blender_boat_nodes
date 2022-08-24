@@ -3,6 +3,9 @@ Blender 3.2 Geometry Nodes based boat generator
 
 This is an attempt to try to model boat hull structure components using Blender 3.2 Geometry Nodes
 
+Please visit the [WIKI](https://github.com/edzop/bpyhullgen) for more documentation!
+
+https://github.com/edzop/blender_boat_nodes/wiki
 
 ## Example node setup 
 ![nodes](images/2022_06_11_nodes_a.png)
@@ -43,7 +46,8 @@ This is an attempt to try to model boat hull structure components using Blender 
 
 
 ## Todo 
-- Documentation
+- Documentation [in progress](https://github.com/edzop/bpyhullgen)
+
 - More unit tests
 - More example files
 

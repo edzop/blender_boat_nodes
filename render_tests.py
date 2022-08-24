@@ -44,7 +44,8 @@ def do_render():
 	bpy.context.scene.render.resolution_percentage=100
 
 	bpy.context.scene.render.engine="CYCLES"
-	bpy.context.scene.cycles.samples=20
+	bpy.context.scene.cycles.samples=50
+	bpy.context.scene.render.film_transparent = True
 	bpy.context.scene.render.image_settings.file_format="PNG"
 
 	try:
