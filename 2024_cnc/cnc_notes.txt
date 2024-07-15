@@ -1,0 +1,37 @@
+https://github.com/ArendJan/Deepnest
+
+https://blendermarket.com/products/disassembler
+
+good documentation on process:
+https://github.com/Jack000/SVGnest
+
+cd ~/Downloads/Deepnest/Deepnest
+npm run start
+
+
+fiber laser store
+https://alleriastore.com
+
+outline to SVG blender addon
+shapemuse
+
+
+https://freesvg.org
+
+
+
+https://www.youtube.com/watch?v=vLsuamTGGNk
+
+
+TODO:
+Script to together:
+separate by material
+separate by loose parts
+set dog lines
+
+flatten (rotate until minimal Z profile)
+
+
+1.5875
+3.175
+
