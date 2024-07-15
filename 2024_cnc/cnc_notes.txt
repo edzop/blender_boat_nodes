@@ -1,3 +1,5 @@
+Useful resources
+
 https://github.com/ArendJan/Deepnest
 
 https://blendermarket.com/products/disassembler
@@ -13,13 +15,11 @@ fiber laser store
 https://alleriastore.com
 
 outline to SVG blender addon
-shapemuse
-
 
 https://freesvg.org
 
 
-
+shapemuse addon
 https://www.youtube.com/watch?v=vLsuamTGGNk
 
 
@@ -32,6 +32,7 @@ set dog lines
 flatten (rotate until minimal Z profile)
 
 
-1.5875
-3.175
+1.5875 1/16 inch
+3.175  1/8 inch
+
 
