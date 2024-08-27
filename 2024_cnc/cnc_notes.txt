@@ -25,14 +25,29 @@ https://www.youtube.com/watch?v=vLsuamTGGNk
 
 TODO:
 Script to together:
-separate by material
+
 separate by loose parts
 set dog lines
 
 flatten (rotate until minimal Z profile)
 
 
+==========================
+Metric Inch Conversions
+==========================
 1.5875 1/16 inch
 3.175  1/8 inch
 
 
+https://blender.stackexchange.com/questions/259550/detect-angle-of-edges-in-geometrynodes
+
+https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/toolpath-basics
+
+
+==========================
+Box Sizes and Bolt Patterns
+==========================
+Side Bolt Pattern 	- 160 w x 200 h
+					- 135 x 99	
+Box 1 450l x 300w 240h
+Box 2 450l x 300w 360h 
